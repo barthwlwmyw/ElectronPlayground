@@ -1,0 +1,14 @@
+{
+  "name": "electron-playground-app",
+  "packageManager": "yarn@4.1.1",
+  "version": "0.0.1",
+  "main": "main.js",
+  "author": "Bartłomiej Kacperski",
+  "description": "Playground app for Electron framework",
+  "devDependencies": {
+    "electron": "^30.0.6"
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}
